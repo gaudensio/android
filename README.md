@@ -9,3 +9,4 @@
 ## List Class
 - Main Activity
 ## License
+This site was built using [The Unlicensed](https://github.com/gaudensio/android/blob/master/LICENSE).
