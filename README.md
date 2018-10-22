@@ -10,5 +10,10 @@
 - [x] Storage 200 mb
 ## List Class
 - Main Activity
+- InsertAlat
+- UpdateAlat
+- Login
+- My Data Helper
+
 ## License
 This site was built using [The Unlicense](https://github.com/gaudensio/android/blob/master/LICENSE).
